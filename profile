@@ -1,8 +1,3 @@
-//RUDE AWAKENING by Olverius
-//game: World of Warcraft Classic
-//contact: twitch.tv/olveriusTV // Olverius#7222 (discord)
-
-//profile
 {
     ["databars"] = {
         ["threat"] = {
@@ -1740,9 +1735,4 @@
         ["font"] = "Friz Quadrata TT",
         ["cursorAnchor"] = true,
     },
-}::profile::Oli - Firemaw
-
-//addons
-https://we.tl/t-exnkG0BxRK
-
-//end
+}::profile::RudeAwakeningElvUI
