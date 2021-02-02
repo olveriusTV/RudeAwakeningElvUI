@@ -1,5 +1,5 @@
 # RudeAwakeningElvUI by Ólverius
-# Contact: twitch.tv/olveriusTV 
+# Contact: Olverius#7222 (discord) or twitch.tv/olveriusTV 
 # Info: ElvUI Profile for World of Warcraft Classic
 # Addons: https://www92.zippyshare.com/v/LhLlubpB/file.html
 # Install: 
